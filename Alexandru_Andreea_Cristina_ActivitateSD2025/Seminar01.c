@@ -60,8 +60,5 @@ int main() {
 	return 0;
 }
 
-
-
 // se da add si se adauga in c( se strege pp)- source.c 
 // articol - instanta a unei structuri
-// //ce clasa vrem sa facem- Masini
