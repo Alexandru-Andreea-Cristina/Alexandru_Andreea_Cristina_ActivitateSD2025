@@ -136,7 +136,7 @@ float calculeazaPretMediu(Nod* lista) {
 void stergeMasiniDinSeria(/*lista masini*/  char serieCautata) {
 	//sterge toate masinile din lista care au seria primita ca parametru.
 	//tratati situatia ca masina se afla si pe prima pozitie, si pe ultima pozitie
-	//TEMA
+	//Tema- de continuat 
 }
 
 float calculeazaPretulMasinilorUnuiSofer(Nod* lista, const char* numeSofer) {
