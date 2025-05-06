@@ -20,7 +20,15 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Recapitulare-laborator01.c" />
     <ClCompile Include="Seminar01.c" />
+    <ClCompile Include="Seminar02.c" />
+    <ClCompile Include="Seminar03.c" />
+    <ClCompile Include="Seminar04.c" />
+    <ClCompile Include="Seminar05.c" />
+    <ClCompile Include="Seminar06.c" />
+    <ClCompile Include="Seminar08.c" />
+    <ClCompile Include="Seminar09.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
