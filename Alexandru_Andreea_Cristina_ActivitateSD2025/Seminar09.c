@@ -169,7 +169,7 @@ Masina getMasinaByID(Nod* radacina, int id) {
 	return m;
 }
 
-int determinaNumarNoduri(Nod* radacina) {
+int determinaNumarNoduri(Nod* radacina) {  //TEMA 
 	//calculeaza numarul total de noduri din arborele binar de cautare
 	if (radacina != NULL) {
 		return 1 + determinaNumarNoduri(radacina->st) + determinaNumarNoduri(radacina->dr);
